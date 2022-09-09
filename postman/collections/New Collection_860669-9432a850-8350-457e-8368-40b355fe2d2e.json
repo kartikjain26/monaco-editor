@@ -7,8 +7,23 @@
 	},
 	"item": [
 		{
-			"name": "New Request",
+			"name": "New Request12",
 			"id": "162ff016-006a-4ef3-a3f8-487d72e4d8ba",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"id": "c455d98e-c4ed-42f4-bb68-635b4b638472",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
